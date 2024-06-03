@@ -5,7 +5,7 @@ import Navigation from "../components/Navigation";
 
 const Home = () => {
   return (
-    <div>
+    <div className="container">
       <Logo />
       <Navigation />
       <Countries />
